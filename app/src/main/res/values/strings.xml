@@ -21,6 +21,8 @@
     <string name="promedio">Promedio: </string>
     <string name="Agregar">Agregar</string>
     <string name="Limpiar">Limpiar</string>
+    <string name="Salario">Salario</string>
+    <string name="Calcular">Calcular</string>
 
     <string name="Desafio">Desafio1</string>
     <string name="Alumno1">Marco Gerardo Serrano Lopez</string>
