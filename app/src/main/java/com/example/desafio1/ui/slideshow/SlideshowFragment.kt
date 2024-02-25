@@ -29,6 +29,7 @@ class SlideshowFragment : Fragment() {
         val root: View = binding.root
 
         //Colocar codigo aqui
+
         return root
     }
 

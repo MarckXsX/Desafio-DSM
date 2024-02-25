@@ -10,12 +10,14 @@
             android:title="@string/menu_promedio" />
         <item
             android:id="@+id/nav_gallery"
-            android:icon="@drawable/ic_menu_salario"
-            android:title="@string/menu_salario" />
+            android:icon="@drawable/ic_menu_calculadora"
+            android:title="@string/menu_calculadora"
+            />
         <item
             android:id="@+id/nav_slideshow"
-            android:icon="@drawable/ic_menu_calculadora"
-            android:title="@string/menu_calculadora" />
+            android:icon="@drawable/ic_menu_salario"
+            android:title="@string/menu_salario"
+             />
 
 
        
