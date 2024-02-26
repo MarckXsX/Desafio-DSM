@@ -78,7 +78,7 @@ class HomeFragment : Fragment() {
                     Result2.text = "Felicidades $nombre estas Aprobado."
                     Result.text = "El promedio de las notas es: $promedio"
                 }else{
-                    Result.text = "Felicidades $nombre estas Reprobado"
+                    Result2.text = "Felicidades $nombre estas Reprobado"
                     Result.text = "El promedio de las notas es: $promedio"
                 }
 
